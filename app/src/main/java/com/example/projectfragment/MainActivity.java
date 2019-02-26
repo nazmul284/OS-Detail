@@ -31,6 +31,12 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         _osList.setOnItemClickListener(this);
 
 
+        /*
+           This Project create Using Fragment
+
+        */
+
+
     }
 
     @Override
